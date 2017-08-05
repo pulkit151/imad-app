@@ -9,7 +9,7 @@
         </div>
         <br>
         <div class="center text-big bold">
-            Hello Everyone & Start a new Journey.
+            Hello Everyone & Start a new Journey with Pulkit
         </div>
         <script type="text/javascript" src="/ui/main.js">
         </script>
