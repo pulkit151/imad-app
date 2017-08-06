@@ -9,7 +9,7 @@
         </div>
         <br>
         <div class="center text-big bold">
-            Hello Everyone & Start a new Journey with me and have a fun in this.
+            Hello Everyone & Start a new Journey with me and have a fun.
         </div>
         <script type="text/javascript" src="/ui/main.js">
         </script>
