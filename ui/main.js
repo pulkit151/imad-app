@@ -1,5 +1,5 @@
-<!doctype; html>;
-<html>
+<doctype; html>;
+</html>
     <head>
         <link href="/ui/style.css" rel="stylesheet" />
     </head>
