@@ -10,7 +10,7 @@ var express = require('express');
  });
  
  app.get('/Article-One', function (req, res) {
-    res.send('Article One requested and will be served here'); 
+    res.send('Article One requested and will be served here hence be prepared for it in.'); 
  });
  
  app.get('/Article-Two', function (req, res) {
